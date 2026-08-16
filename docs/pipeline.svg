@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1185" height="844" viewBox="22 -6 1185 844" font-family="Segoe Print, Bradley Hand, Chilanka, Comic Sans MS, cursive">
+<rect x="22" y="-6" width="1185.0" height="844" fill="#ffffff"/>
+<text x="250" y="45.8" font-size="25" fill="#1e1e1e" opacity="1.0">Compression-aware one-step diffusion for JPEG artifact removal</text>
+<text x="380" y="71.2" font-size="16" fill="#757575" opacity="1.0">one denoising step instead of fifty</text>
+<path d="M 63.6 94.2 L 1156.3 94.1 Q 1170.1 94.7 1169.0 109.0 L 1169.0 330.9 Q 1169.1 344.1 1155.8 345.7 L 63.2 344.4 Q 50.3 346.0 50.2 330.8 L 51.0 108.0 Q 50.8 94.5 63.2 94.2 Z" fill="#dbe4ff" stroke="none" opacity="0.3"/>
+<path d="M 63.6 94.2 L 1156.3 94.1 Q 1170.1 94.7 1169.0 109.0 L 1169.0 330.9 Q 1169.1 344.1 1155.8 345.7 L 63.2 344.4 Q 50.3 346.0 50.2 330.8 L 51.0 108.0 Q 50.8 94.5 63.2 94.2 Z" fill="none" stroke="#4a9eed" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 63.7 95.5 L 1155.5 95.1 Q 1170.2 94.8 1170.1 108.3 L 1169.3 330.5 Q 1170.3 344.9 1155.7 345.1 L 63.9 344.7 Q 50.5 345.3 49.6 331.1 L 50.0 109.6 Q 50.4 94.7 64.7 94.4 Z" fill="none" stroke="#4a9eed" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="125.0" font-size="19" fill="#2563eb" opacity="1.0">STAGE 1  -  teach an encoder what compression looks like</text>
+<path d="M 83.8 155.6 L 205.2 155.0 Q 219.0 155.4 220.6 169.2 L 220.8 210.6 Q 220.4 225.2 206.2 224.9 L 84.7 226.0 Q 69.9 225.4 69.0 211.4 L 70.3 170.1 Q 70.7 154.5 83.7 155.4 Z" fill="#ffd8a8" stroke="none" opacity="1.0"/>
+<path d="M 83.8 155.6 L 205.2 155.0 Q 219.0 155.4 220.6 169.2 L 220.8 210.6 Q 220.4 225.2 206.2 224.9 L 84.7 226.0 Q 69.9 225.4 69.0 211.4 L 70.3 170.1 Q 70.7 154.5 83.7 155.4 Z" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.3 154.9 L 205.5 154.4 Q 219.3 155.4 219.4 168.6 L 219.8 211.6 Q 219.4 224.9 206.1 225.6 L 84.5 225.6 Q 69.7 224.9 69.8 211.6 L 70.7 168.5 Q 69.5 154.6 83.6 155.0 Z" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="145.0" y="185.5" font-size="15" fill="#1e1e1e" text-anchor="middle">compressed</text>
+<text x="145.0" y="203.8" font-size="15" fill="#1e1e1e" text-anchor="middle">image</text>
+<path d="M 222.1 189.7 L 261.3 189.9" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 262.0 190.0 L 250.1 184.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 262.0 190.0 L 250.1 195.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 277.7 145.1 L 426.0 145.4 Q 439.0 145.3 439.4 158.0 L 439.9 221.6 Q 439.8 235.7 424.8 234.8 L 277.1 235.3 Q 263.0 234.0 263.4 220.3 L 263.6 158.0 Q 262.9 144.2 277.1 144.7 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 277.7 145.1 L 426.0 145.4 Q 439.0 145.3 439.4 158.0 L 439.9 221.6 Q 439.8 235.7 424.8 234.8 L 277.1 235.3 Q 263.0 234.0 263.4 220.3 L 263.6 158.0 Q 262.9 144.2 277.1 144.7 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 277.3 145.6 L 425.2 144.5 Q 438.6 144.8 438.8 158.4 L 439.5 221.8 Q 438.9 235.0 424.4 234.4 L 277.8 234.6 Q 264.5 234.5 263.3 221.7 L 264.0 158.5 Q 264.1 144.3 278.0 145.7 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="351.5" y="185.2" font-size="16" fill="#1e1e1e" text-anchor="middle">CaVE</text>
+<text x="351.5" y="204.7" font-size="16" fill="#1e1e1e" text-anchor="middle">UNet encoder</text>
+<path d="M 441.5 172.3 L 486.7 157.8" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 487.0 158.0 L 474.1 156.4" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 487.0 158.0 L 477.2 166.5" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 440.5 208.4 L 487.0 222.4" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 487.0 222.0 L 477.2 213.5" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 487.0 222.0 L 474.1 223.6" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 502.6 127.4 L 710.7 129.1 Q 724.8 128.7 724.7 142.5 L 723.4 176.0 Q 723.7 189.0 709.0 189.5 L 502.5 190.4 Q 490.0 189.9 490.0 177.1 L 490.0 141.7 Q 488.4 127.4 502.3 127.3 Z" fill="#a5d8ff" stroke="none" opacity="1.0"/>
+<path d="M 502.6 127.4 L 710.7 129.1 Q 724.8 128.7 724.7 142.5 L 723.4 176.0 Q 723.7 189.0 709.0 189.5 L 502.5 190.4 Q 490.0 189.9 490.0 177.1 L 490.0 141.7 Q 488.4 127.4 502.3 127.3 Z" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 503.2 128.6 L 710.5 128.0 Q 724.2 128.5 723.4 142.2 L 724.6 176.4 Q 724.4 190.0 709.5 190.4 L 502.7 190.5 Q 489.7 189.8 488.8 176.7 L 489.3 141.5 Q 488.4 127.5 503.6 128.5 Z" fill="none" stroke="#4a9eed" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="606.5" y="154.5" font-size="15" fill="#1e1e1e" text-anchor="middle">explicit: predict QF</text>
+<text x="606.5" y="172.8" font-size="15" fill="#1e1e1e" text-anchor="middle">CNN + MLP head</text>
+<path d="M 502.2 205.7 L 711.1 205.3 Q 723.7 205.1 723.2 217.9 L 725.0 253.3 Q 724.1 268.0 709.9 267.8 L 503.7 266.4 Q 488.5 266.5 488.4 253.2 L 488.5 218.8 Q 488.2 205.9 502.7 204.9 Z" fill="#d0bfff" stroke="none" opacity="1.0"/>
+<path d="M 502.2 205.7 L 711.1 205.3 Q 723.7 205.1 723.2 217.9 L 725.0 253.3 Q 724.1 268.0 709.9 267.8 L 503.7 266.4 Q 488.5 266.5 488.4 253.2 L 488.5 218.8 Q 488.2 205.9 502.7 204.9 Z" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 503.1 205.6 L 709.9 205.6 Q 724.0 205.0 724.0 218.3 L 723.9 252.5 Q 723.2 267.5 709.5 267.0 L 503.3 267.1 Q 488.7 267.0 489.1 253.4 L 488.4 219.1 Q 488.6 204.7 503.4 205.0 Z" fill="none" stroke="#8b5cf6" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="606.5" y="231.5" font-size="15" fill="#1e1e1e" text-anchor="middle">implicit: reconstruct</text>
+<text x="606.5" y="249.8" font-size="15" fill="#1e1e1e" text-anchor="middle">the original image</text>
+<text x="750" y="149.2" font-size="15" fill="#1e1e1e" opacity="1.0">Explicit learning alone collapses the embedding</text>
+<text x="750" y="168.0" font-size="15" fill="#1e1e1e" opacity="1.0">onto one number - and the same artifacts can come</text>
+<text x="750" y="186.8" font-size="15" fill="#1e1e1e" opacity="1.0">from several quality factors, so it stops generalising.</text>
+<text x="750" y="229.2" font-size="15" fill="#1e1e1e" opacity="1.0">Adding reconstruction keeps the representation rich.</text>
+<text x="750" y="248.0" font-size="15" fill="#1e1e1e" opacity="1.0">QF=1 and QF=5, both unseen in training, separate</text>
+<text x="750" y="266.8" font-size="15" fill="#1e1e1e" opacity="1.0">cleanly only under the dual objective.</text>
+<path d="M 84.1 262.6 L 425.9 261.9 Q 439.2 262.0 439.0 276.4 L 438.9 304.1 Q 439.0 319.0 425.4 318.8 L 85.0 317.5 Q 70.1 319.0 70.7 303.2 L 69.2 275.9 Q 69.1 261.4 83.1 262.4 Z" fill="#c3fae8" stroke="none" opacity="1.0"/>
+<path d="M 84.1 262.6 L 425.9 261.9 Q 439.2 262.0 439.0 276.4 L 438.9 304.1 Q 439.0 319.0 425.4 318.8 L 85.0 317.5 Q 70.1 319.0 70.7 303.2 L 69.2 275.9 Q 69.1 261.4 83.1 262.4 Z" fill="none" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.4 262.6 L 424.5 262.3 Q 439.2 261.5 439.6 276.7 L 438.6 304.7 Q 438.8 318.0 425.8 318.5 L 83.5 317.9 Q 70.0 317.8 69.5 303.7 L 70.3 275.3 Q 70.1 261.9 83.3 261.7 Z" fill="none" stroke="#06b6d4" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="254.5" y="295.0" font-size="16" fill="#1e1e1e" text-anchor="middle">compression prior -&gt; frozen for stage 2</text>
+<path d="M 64.3 365.0 L 1155.0 366.1 Q 1170.6 366.0 1169.1 378.5 L 1169.0 586.6 Q 1169.5 599.2 1155.8 600.9 L 64.7 599.5 Q 49.2 600.9 50.2 586.4 L 49.1 378.0 Q 50.4 364.8 63.1 366.0 Z" fill="#e5dbff" stroke="none" opacity="0.3"/>
+<path d="M 64.3 365.0 L 1155.0 366.1 Q 1170.6 366.0 1169.1 378.5 L 1169.0 586.6 Q 1169.5 599.2 1155.8 600.9 L 64.7 599.5 Q 49.2 600.9 50.2 586.4 L 49.1 378.0 Q 50.4 364.8 63.1 366.0 Z" fill="none" stroke="#8b5cf6" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 64.2 365.5 L 1155.4 365.5 Q 1169.3 365.6 1169.9 378.8 L 1170.1 586.7 Q 1169.6 599.4 1156.0 599.6 L 63.4 599.5 Q 49.3 599.5 49.7 585.7 L 50.4 378.7 Q 50.0 364.5 63.8 364.3 Z" fill="none" stroke="#8b5cf6" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="395.1" font-size="19" fill="#6d28d9" opacity="1.0">STAGE 2  -  one conditioned denoising step</text>
+<path d="M 83.5 418.9 L 196.5 420.1 Q 209.3 419.9 211.0 433.1 L 210.7 475.9 Q 210.0 490.7 195.8 490.0 L 84.4 491.1 Q 69.7 490.7 70.5 476.3 L 69.8 433.7 Q 69.0 419.2 83.1 420.5 Z" fill="#ffd8a8" stroke="none" opacity="1.0"/>
+<path d="M 83.5 418.9 L 196.5 420.1 Q 209.3 419.9 211.0 433.1 L 210.7 475.9 Q 210.0 490.7 195.8 490.0 L 84.4 491.1 Q 69.7 490.7 70.5 476.3 L 69.8 433.7 Q 69.0 419.2 83.1 420.5 Z" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.6 419.5 L 195.4 420.5 Q 210.6 420.3 209.7 433.6 L 209.7 475.9 Q 209.5 489.9 195.6 490.7 L 84.7 490.1 Q 69.6 490.7 69.7 475.8 L 69.2 433.8 Q 70.0 420.0 83.5 420.0 Z" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="140.0" y="450.5" font-size="15" fill="#1e1e1e" text-anchor="middle">compressed</text>
+<text x="140.0" y="468.8" font-size="15" fill="#1e1e1e" text-anchor="middle">image</text>
+<path d="M 211.3 454.7 L 249.4 454.9" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 250.0 455.0 L 238.1 449.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 250.0 455.0 L 238.1 460.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 263.0 418.9 L 375.6 419.4 Q 390.2 420.1 390.6 434.3 L 390.5 476.8 Q 389.8 489.6 377.1 489.2 L 264.5 490.3 Q 249.0 490.7 250.9 476.3 L 250.5 434.7 Q 249.2 420.1 264.0 420.7 Z" fill="#e9ecef" stroke="none" opacity="1.0"/>
+<path d="M 263.0 418.9 L 375.6 419.4 Q 390.2 420.1 390.6 434.3 L 390.5 476.8 Q 389.8 489.6 377.1 489.2 L 264.5 490.3 Q 249.0 490.7 250.9 476.3 L 250.5 434.7 Q 249.2 420.1 264.0 420.7 Z" fill="none" stroke="#757575" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 264.5 420.5 L 376.1 420.6 Q 390.3 420.3 389.6 433.3 L 389.4 475.8 Q 389.4 490.5 376.1 490.2 L 264.2 490.3 Q 250.0 489.2 250.5 476.4 L 250.0 434.1 Q 250.2 419.3 264.4 419.6 Z" fill="none" stroke="#757575" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="320.0" y="450.5" font-size="15" fill="#1e1e1e" text-anchor="middle">VAE encode</text>
+<text x="320.0" y="468.8" font-size="15" fill="#1e1e1e" text-anchor="middle">to latent</text>
+<path d="M 391.4 454.7 L 430.3 454.6" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 430.0 455.0 L 418.1 449.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 430.0 455.0 L 418.1 460.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 446.5 411.0 L 618.0 409.7 Q 632.0 410.4 632.6 424.3 L 632.3 485.1 Q 631.2 499.5 618.5 499.6 L 446.1 498.9 Q 431.0 499.5 432.4 486.4 L 432.4 423.5 Q 432.0 409.9 445.9 409.2 Z" fill="#d0bfff" stroke="none" opacity="1.0"/>
+<path d="M 446.5 411.0 L 618.0 409.7 Q 632.0 410.4 632.6 424.3 L 632.3 485.1 Q 631.2 499.5 618.5 499.6 L 446.1 498.9 Q 431.0 499.5 432.4 486.4 L 432.4 423.5 Q 432.0 409.9 445.9 409.2 Z" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 446.6 409.5 L 618.7 410.7 Q 631.3 409.9 632.5 424.7 L 631.9 485.6 Q 631.6 500.7 617.6 500.1 L 445.4 500.0 Q 432.7 499.4 432.5 486.0 L 432.6 424.3 Q 431.6 410.6 446.0 409.3 Z" fill="none" stroke="#8b5cf6" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="532.0" y="450.2" font-size="16" fill="#1e1e1e" text-anchor="middle">conditioned UNet</text>
+<text x="532.0" y="469.7" font-size="16" fill="#1e1e1e" text-anchor="middle">ONE step</text>
+<path d="M 633.3 455.0 L 671.9 454.7" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 672.0 455.0 L 660.1 449.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 672.0 455.0 L 660.1 460.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 687.2 419.7 L 799.6 420.7 Q 812.9 420.6 814.7 433.2 L 814.9 476.5 Q 814.9 489.5 799.7 489.8 L 689.1 490.2 Q 673.7 489.8 673.5 475.0 L 673.1 434.7 Q 673.5 421.0 687.4 419.5 Z" fill="#e9ecef" stroke="none" opacity="1.0"/>
+<path d="M 687.2 419.7 L 799.6 420.7 Q 812.9 420.6 814.7 433.2 L 814.9 476.5 Q 814.9 489.5 799.7 489.8 L 689.1 490.2 Q 673.7 489.8 673.5 475.0 L 673.1 434.7 Q 673.5 421.0 687.4 419.5 Z" fill="none" stroke="#757575" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 688.0 419.5 L 799.8 420.7 Q 814.6 420.5 814.2 434.6 L 814.7 476.1 Q 814.3 489.3 800.4 489.9 L 688.4 490.2 Q 673.7 489.3 674.7 475.4 L 674.0 433.8 Q 673.7 420.4 688.7 419.6 Z" fill="none" stroke="#757575" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="744.0" y="459.7" font-size="15" fill="#1e1e1e" text-anchor="middle">VAE decode</text>
+<path d="M 816.2 454.7 L 854.1 454.9" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 854.0 455.0 L 842.1 449.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 854.0 455.0 L 842.1 460.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 869.3 419.3 L 991.4 420.9 Q 1006.0 419.4 1006.9 435.1 L 1005.9 475.2 Q 1005.3 489.1 991.7 489.1 L 869.4 489.5 Q 856.2 490.9 856.5 475.8 L 855.8 434.1 Q 855.7 419.6 869.0 419.5 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 869.3 419.3 L 991.4 420.9 Q 1006.0 419.4 1006.9 435.1 L 1005.9 475.2 Q 1005.3 489.1 991.7 489.1 L 869.4 489.5 Q 856.2 490.9 856.5 475.8 L 855.8 434.1 Q 855.7 419.6 869.0 419.5 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 870.7 419.4 L 992.0 420.2 Q 1006.6 419.6 1005.6 433.6 L 1005.8 475.9 Q 1006.7 490.5 992.6 489.3 L 869.3 490.3 Q 856.6 490.0 856.1 475.2 L 855.8 434.7 Q 856.5 420.5 870.7 419.6 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="931.0" y="450.5" font-size="15" fill="#1e1e1e" text-anchor="middle">restored</text>
+<text x="931.0" y="468.8" font-size="15" fill="#1e1e1e" text-anchor="middle">image</text>
+<path d="M 199.5 529.5 L 500.0 496.3" fill="none" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 500.0 496.0 L 487.6 492.1" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 500.0 496.0 L 488.8 502.6" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<rect x="289.3" y="501.1" width="121.4" height="18.9" fill="#ffffff"/>
+<text x="350.0" y="517.8" font-size="14" fill="#06b6d4" text-anchor="middle">prior from CaVE</text>
+<path d="M 85.0 512.5 L 186.3 512.6 Q 199.9 512.1 199.0 526.6 L 199.4 548.9 Q 200.3 561.6 185.2 561.5 L 84.3 562.4 Q 69.1 561.1 70.1 548.2 L 69.8 525.4 Q 70.2 510.9 83.6 511.9 Z" fill="#c3fae8" stroke="none" opacity="1.0"/>
+<path d="M 85.0 512.5 L 186.3 512.6 Q 199.9 512.1 199.0 526.6 L 199.4 548.9 Q 200.3 561.6 185.2 561.5 L 84.3 562.4 Q 69.1 561.1 70.1 548.2 L 69.8 525.4 Q 70.2 510.9 83.6 511.9 Z" fill="none" stroke="#06b6d4" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.7 512.2 L 186.6 512.0 Q 199.6 511.6 200.7 526.3 L 199.7 547.3 Q 200.0 562.3 185.9 561.6 L 84.3 562.7 Q 69.6 561.3 69.8 547.9 L 70.3 525.5 Q 70.5 512.4 84.0 511.5 Z" fill="none" stroke="#06b6d4" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="135.0" y="541.6" font-size="15" fill="#1e1e1e" text-anchor="middle">prior</text>
+<text x="520" y="534.2" font-size="15" fill="#1e1e1e" opacity="1.0">LoRA rank 16 for fine-tuning  -  adversarial head on a frozen SD UNet encoder</text>
+<text x="520" y="553.0" font-size="15" fill="#1e1e1e" opacity="1.0">wavelet colour fix on the output</text>
+<path d="M 65.0 619.6 L 1156.7 619.4 Q 1169.4 620.6 1169.5 635.0 L 1170.0 795.3 Q 1169.4 809.8 1156.4 811.0 L 63.2 809.8 Q 49.4 811.0 49.2 795.0 L 49.0 633.8 Q 50.9 620.8 64.5 621.1 Z" fill="#d3f9d8" stroke="none" opacity="0.3"/>
+<path d="M 65.0 619.6 L 1156.7 619.4 Q 1169.4 620.6 1169.5 635.0 L 1170.0 795.3 Q 1169.4 809.8 1156.4 811.0 L 63.2 809.8 Q 49.4 811.0 49.2 795.0 L 49.0 633.8 Q 50.9 620.8 64.5 621.1 Z" fill="none" stroke="#22c55e" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 64.7 619.7 L 1155.5 620.7 Q 1170.4 619.3 1170.3 633.8 L 1169.8 795.7 Q 1169.5 809.2 1155.7 809.8 L 64.7 809.4 Q 50.7 809.5 49.8 796.5 L 50.5 633.9 Q 49.3 620.0 63.8 620.6 Z" fill="none" stroke="#22c55e" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="650.0" font-size="19" fill="#15803d" opacity="1.0">WHY ONE STEP IS ENOUGH</text>
+<path d="M 83.3 671.7 L 386.9 671.0 Q 399.8 672.7 400.6 685.0 L 399.0 723.0 Q 400.9 737.5 386.5 738.9 L 83.6 737.5 Q 71.0 738.3 69.5 724.5 L 69.6 685.5 Q 68.9 672.6 84.9 672.3 Z" fill="#e9ecef" stroke="none" opacity="1.0"/>
+<path d="M 83.3 671.7 L 386.9 671.0 Q 399.8 672.7 400.6 685.0 L 399.0 723.0 Q 400.9 737.5 386.5 738.9 L 83.6 737.5 Q 71.0 738.3 69.5 724.5 L 69.6 685.5 Q 68.9 672.6 84.9 672.3 Z" fill="none" stroke="#757575" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.7 671.3 L 385.6 672.0 Q 400.7 672.7 399.8 685.6 L 399.9 724.0 Q 400.7 737.5 386.5 738.4 L 84.5 738.4 Q 70.2 737.7 69.7 723.8 L 70.4 685.4 Q 69.5 672.4 83.6 671.3 Z" fill="none" stroke="#757575" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="235.0" y="700.5" font-size="15" fill="#1e1e1e" text-anchor="middle">multi-step diffusion starts</text>
+<text x="235.0" y="718.8" font-size="15" fill="#1e1e1e" text-anchor="middle">from pure Gaussian noise</text>
+<path d="M 401.3 705.1 L 445.8 705.7" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 446.0 705.0 L 434.1 699.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 446.0 705.0 L 434.1 710.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 462.8 673.1 L 773.5 671.1 Q 787.1 672.0 788.5 685.9 L 787.4 723.8 Q 788.3 738.4 774.5 738.8 L 462.4 737.2 Q 448.7 737.5 448.1 723.7 L 448.5 685.3 Q 447.4 671.4 461.2 672.8 Z" fill="#d0bfff" stroke="none" opacity="1.0"/>
+<path d="M 462.8 673.1 L 773.5 671.1 Q 787.1 672.0 788.5 685.9 L 787.4 723.8 Q 788.3 738.4 774.5 738.8 L 462.4 737.2 Q 448.7 737.5 448.1 723.7 L 448.5 685.3 Q 447.4 671.4 461.2 672.8 Z" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 462.1 671.7 L 773.8 672.8 Q 788.0 671.6 788.5 686.2 L 788.8 723.4 Q 788.0 738.5 774.5 738.6 L 461.3 737.7 Q 447.4 737.5 448.7 724.1 L 448.7 685.8 Q 448.6 671.9 461.6 672.4 Z" fill="none" stroke="#8b5cf6" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="618.0" y="700.5" font-size="15" fill="#1e1e1e" text-anchor="middle">we start from the latent of</text>
+<text x="618.0" y="718.8" font-size="15" fill="#1e1e1e" text-anchor="middle">the degraded image instead</text>
+<path d="M 790.6 704.4 L 834.1 705.2" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 834.0 705.0 L 822.1 699.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 834.0 705.0 L 822.1 710.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 849.4 671.7 L 1121.2 671.3 Q 1135.5 672.2 1136.3 685.3 L 1134.9 723.6 Q 1136.4 737.3 1121.6 737.3 L 850.6 738.1 Q 835.0 737.1 835.8 724.1 L 836.3 685.1 Q 835.3 672.4 849.8 671.5 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 849.4 671.7 L 1121.2 671.3 Q 1135.5 672.2 1136.3 685.3 L 1134.9 723.6 Q 1136.4 737.3 1121.6 737.3 L 850.6 738.1 Q 835.0 737.1 835.8 724.1 L 836.3 685.1 Q 835.3 672.4 849.8 671.5 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 849.7 672.7 L 1121.7 672.1 Q 1135.8 671.9 1136.6 686.8 L 1135.8 723.5 Q 1136.4 737.5 1121.2 738.6 L 849.9 738.5 Q 835.9 738.6 835.9 723.5 L 835.3 686.1 Q 836.2 672.6 849.4 672.2 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="986.0" y="700.5" font-size="15" fill="#1e1e1e" text-anchor="middle">the gap is small enough</text>
+<text x="986.0" y="718.8" font-size="15" fill="#1e1e1e" text-anchor="middle">for a single step</text>
+<text x="70" y="770.2" font-size="15" fill="#1e1e1e" opacity="1.0">Sampling depth was never what the task was short of. Knowing how badly the image was compressed is.</text>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="844" viewBox="22 -6 1176 844" font-family="Segoe Print, Bradley Hand, Chilanka, Comic Sans MS, cursive">
+<rect x="22" y="-6" width="1176" height="844" fill="#ffffff"/>
+<text x="300" y="45.8" font-size="25" fill="#1e1e1e" opacity="1.0">LIVE-1 at quality factor 5  -  the hardest setting</text>
+<path d="M 63.6 79.2 L 656.3 79.1 Q 670.1 79.7 669.0 94.0 L 669.0 465.9 Q 669.1 479.1 655.8 480.7 L 63.2 479.4 Q 50.3 481.0 50.2 465.8 L 51.0 93.0 Q 50.8 79.5 63.2 79.2 Z" fill="#dbe4ff" stroke="none" opacity="0.3"/>
+<path d="M 63.6 79.2 L 656.3 79.1 Q 670.1 79.7 669.0 94.0 L 669.0 465.9 Q 669.1 479.1 655.8 480.7 L 63.2 479.4 Q 50.3 481.0 50.2 465.8 L 51.0 93.0 Q 50.8 79.5 63.2 79.2 Z" fill="none" stroke="#4a9eed" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 63.7 80.5 L 655.5 80.1 Q 670.2 79.8 670.1 93.3 L 669.3 465.5 Q 670.3 479.9 655.7 480.1 L 63.9 479.7 Q 50.5 480.3 49.6 466.1 L 50.0 94.6 Q 50.4 79.7 64.7 79.4 Z" fill="none" stroke="#4a9eed" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="109.1" font-size="18" fill="#2563eb" opacity="1.0">LPIPS  (lower is better)</text>
+<path d="M 83.8 130.6 L 453.2 130.0 Q 467.0 130.4 468.6 144.2 L 468.8 155.6 Q 468.4 170.2 454.2 169.9 L 84.7 171.0 Q 69.9 170.4 69.0 156.4 L 70.3 145.1 Q 70.7 129.5 83.7 130.4 Z" fill="#e9ecef" stroke="none" opacity="1.0"/>
+<path d="M 83.8 130.6 L 453.2 130.0 Q 467.0 130.4 468.6 144.2 L 468.8 155.6 Q 468.4 170.2 454.2 169.9 L 84.7 171.0 Q 69.9 170.4 69.0 156.4 L 70.3 145.1 Q 70.7 129.5 83.7 130.4 Z" fill="none" stroke="#757575" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.3 129.9 L 453.5 129.4 Q 467.3 130.4 467.4 143.6 L 467.8 156.6 Q 467.4 169.9 454.1 170.6 L 84.5 170.6 Q 69.7 169.9 69.8 156.6 L 70.7 143.5 Q 69.5 129.6 83.6 130.0 Z" fill="none" stroke="#757575" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="269.0" y="154.7" font-size="15" fill="#1e1e1e" text-anchor="middle">0.4425</text>
+<text x="476" y="154.2" font-size="15" fill="#1e1e1e" opacity="1.0">JPEG</text>
+<path d="M 84.2 185.5 L 331.9 185.8 Q 346.7 186.1 348.0 200.4 L 347.0 212.3 Q 347.4 225.0 333.9 226.6 L 84.8 226.7 Q 69.8 225.8 69.1 212.3 L 69.0 199.0 Q 69.4 185.3 83.6 185.0 Z" fill="#e9ecef" stroke="none" opacity="1.0"/>
+<path d="M 84.2 185.5 L 331.9 185.8 Q 346.7 186.1 348.0 200.4 L 347.0 212.3 Q 347.4 225.0 333.9 226.6 L 84.8 226.7 Q 69.8 225.8 69.1 212.3 L 69.0 199.0 Q 69.4 185.3 83.6 185.0 Z" fill="none" stroke="#757575" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.2 185.5 L 332.4 185.8 Q 346.3 186.6 347.2 199.5 L 346.6 211.8 Q 346.8 225.4 333.5 226.8 L 83.9 226.0 Q 69.4 225.4 69.8 211.6 L 70.5 199.5 Q 69.3 186.7 84.0 185.5 Z" fill="none" stroke="#757575" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="208.5" y="210.7" font-size="15" fill="#1e1e1e" text-anchor="middle">0.3082</text>
+<text x="355" y="210.2" font-size="15" fill="#1e1e1e" opacity="1.0">FBCNN</text>
+<path d="M 84.1 241.0 L 371.1 243.1 Q 385.8 242.4 384.5 255.7 L 384.3 268.6 Q 385.1 282.6 370.6 281.4 L 84.7 283.1 Q 70.8 282.7 70.7 268.5 L 69.4 256.0 Q 69.7 241.0 83.0 241.5 Z" fill="#ffd8a8" stroke="none" opacity="1.0"/>
+<path d="M 84.1 241.0 L 371.1 243.1 Q 385.8 242.4 384.5 255.7 L 384.3 268.6 Q 385.1 282.6 370.6 281.4 L 84.7 283.1 Q 70.8 282.7 70.7 268.5 L 69.4 256.0 Q 69.7 241.0 83.0 241.5 Z" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.6 242.3 L 371.7 241.9 Q 385.7 242.8 385.7 255.8 L 384.6 267.6 Q 384.5 281.5 371.2 282.6 L 84.5 282.0 Q 70.2 282.5 69.4 268.2 L 70.6 256.4 Q 70.4 242.0 83.5 242.4 Z" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="227.5" y="266.6" font-size="15" fill="#1e1e1e" text-anchor="middle">0.3509</text>
+<text x="393" y="266.2" font-size="15" fill="#1e1e1e" opacity="1.0">DiffBIR  s=50</text>
+<path d="M 83.6 298.7 L 494.0 297.8 Q 506.8 299.0 507.5 311.3 L 506.2 323.2 Q 507.9 338.7 492.2 338.7 L 85.1 338.3 Q 69.7 338.1 69.2 322.9 L 71.0 312.3 Q 70.1 299.0 83.9 298.8 Z" fill="#ffd8a8" stroke="none" opacity="1.0"/>
+<path d="M 83.6 298.7 L 494.0 297.8 Q 506.8 299.0 507.5 311.3 L 506.2 323.2 Q 507.9 338.7 492.2 338.7 L 85.1 338.3 Q 69.7 338.1 69.2 322.9 L 71.0 312.3 Q 70.1 299.0 83.9 298.8 Z" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.5 297.6 L 492.6 297.7 Q 506.6 298.1 506.6 311.9 L 506.4 324.6 Q 506.8 337.9 493.1 338.6 L 83.9 338.6 Q 70.0 338.0 70.0 323.3 L 69.9 311.5 Q 69.2 298.5 83.5 298.0 Z" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="288.5" y="322.7" font-size="15" fill="#1e1e1e" text-anchor="middle">0.4856</text>
+<text x="515" y="322.2" font-size="15" fill="#1e1e1e" opacity="1.0">SUPIR  s=50</text>
+<path d="M 84.5 354.1 L 295.6 354.0 Q 310.1 354.6 309.1 368.1 L 309.4 379.5 Q 310.6 394.0 296.1 394.6 L 84.9 393.9 Q 70.2 394.0 70.0 380.4 L 69.9 368.1 Q 70.0 355.0 84.4 354.8 Z" fill="#a5d8ff" stroke="none" opacity="1.0"/>
+<path d="M 84.5 354.1 L 295.6 354.0 Q 310.1 354.6 309.1 368.1 L 309.4 379.5 Q 310.6 394.0 296.1 394.6 L 84.9 393.9 Q 70.2 394.0 70.0 380.4 L 69.9 368.1 Q 70.0 355.0 84.4 354.8 Z" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.7 353.6 L 296.1 354.7 Q 310.5 353.4 309.4 367.9 L 309.3 379.6 Q 309.3 394.3 296.4 394.6 L 83.5 394.3 Q 70.2 393.5 70.6 380.7 L 69.6 368.7 Q 69.8 354.0 84.8 354.5 Z" fill="none" stroke="#4a9eed" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="190.0" y="378.7" font-size="15" fill="#1e1e1e" text-anchor="middle">0.2675</text>
+<text x="318" y="378.2" font-size="15" fill="#1e1e1e" opacity="1.0">OSEDiff  s=1</text>
+<path d="M 83.3 409.8 L 241.0 409.6 Q 254.3 409.6 255.5 422.9 L 255.1 435.9 Q 253.9 449.6 241.3 450.0 L 83.0 451.1 Q 70.6 451.0 69.1 435.5 L 69.0 424.6 Q 69.5 409.2 83.8 410.9 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 83.3 409.8 L 241.0 409.6 Q 254.3 409.6 255.5 422.9 L 255.1 435.9 Q 253.9 449.6 241.3 450.0 L 83.0 451.1 Q 70.6 451.0 69.1 435.5 L 69.0 424.6 Q 69.5 409.2 83.8 410.9 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.5 409.6 L 240.5 410.6 Q 255.1 410.3 254.4 423.3 L 255.3 435.9 Q 254.3 450.7 241.2 450.5 L 83.4 450.5 Q 69.3 450.6 69.9 435.8 L 70.1 424.7 Q 69.6 409.4 84.0 409.6 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="162.5" y="434.7" font-size="15" fill="#1e1e1e" text-anchor="middle">0.2062</text>
+<text x="263" y="434.2" font-size="15" fill="#1e1e1e" opacity="1.0">CODiff  s=1  ours</text>
+<text x="70" y="474.2" font-size="15" fill="#15803d" opacity="1.0">22.9% below OSEDiff, the strongest one-step baseline</text>
+<path d="M 713.1 79.3 L 1155.0 79.3 Q 1169.6 79.6 1170.6 93.5 L 1170.0 465.3 Q 1169.7 478.9 1155.5 478.9 L 714.5 480.1 Q 699.3 479.9 701.0 465.1 L 700.7 93.9 Q 700.0 80.7 713.8 80.0 Z" fill="#d3f9d8" stroke="none" opacity="0.3"/>
+<path d="M 713.1 79.3 L 1155.0 79.3 Q 1169.6 79.6 1170.6 93.5 L 1170.0 465.3 Q 1169.7 478.9 1155.5 478.9 L 714.5 480.1 Q 699.3 479.9 701.0 465.1 L 700.7 93.9 Q 700.0 80.7 713.8 80.0 Z" fill="none" stroke="#22c55e" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 714.3 80.7 L 1155.8 80.5 Q 1170.3 80.2 1169.9 93.8 L 1169.3 465.4 Q 1169.3 480.4 1155.6 479.5 L 713.4 480.5 Q 700.6 480.3 699.7 465.6 L 699.7 93.9 Q 699.5 79.9 713.6 80.7 Z" fill="none" stroke="#22c55e" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="720" y="109.1" font-size="18" fill="#15803d" opacity="1.0">DISTS  (lower is better)</text>
+<path d="M 735.0 130.1 L 1005.4 131.0 Q 1019.6 129.7 1018.9 143.7 L 1019.9 162.0 Q 1019.3 176.0 1004.9 175.5 L 733.1 175.8 Q 719.0 174.9 719.6 161.4 L 720.2 144.1 Q 720.6 130.3 734.5 130.8 Z" fill="#a5d8ff" stroke="none" opacity="1.0"/>
+<path d="M 735.0 130.1 L 1005.4 131.0 Q 1019.6 129.7 1018.9 143.7 L 1019.9 162.0 Q 1019.3 176.0 1004.9 175.5 L 733.1 175.8 Q 719.0 174.9 719.6 161.4 L 720.2 144.1 Q 720.6 130.3 734.5 130.8 Z" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 733.8 129.7 L 1006.7 129.5 Q 1020.3 130.2 1019.3 144.5 L 1020.6 162.2 Q 1020.4 176.5 1005.4 176.0 L 734.0 176.5 Q 720.5 176.5 720.1 162.6 L 720.3 144.3 Q 719.6 129.3 733.4 129.8 Z" fill="none" stroke="#4a9eed" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="870.0" y="158.0" font-size="16" fill="#1e1e1e" text-anchor="middle">OSEDiff 0.1653</text>
+<path d="M 733.1 190.7 L 910.1 190.3 Q 924.3 190.4 924.0 202.9 L 924.7 222.5 Q 924.0 236.1 910.4 235.0 L 734.5 235.5 Q 719.1 235.5 720.5 221.4 L 720.5 205.0 Q 720.0 189.7 734.0 190.4 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 733.1 190.7 L 910.1 190.3 Q 924.3 190.4 924.0 202.9 L 924.7 222.5 Q 924.0 236.1 910.4 235.0 L 734.5 235.5 Q 719.1 235.5 720.5 221.4 L 720.5 205.0 Q 720.0 189.7 734.0 190.4 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 734.4 190.2 L 910.2 189.3 Q 923.5 189.6 924.4 203.7 L 924.1 221.2 Q 923.3 235.6 910.3 236.3 L 734.3 235.7 Q 720.0 235.9 719.9 221.4 L 720.6 203.5 Q 720.7 190.7 733.3 189.9 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="822.0" y="218.0" font-size="16" fill="#1e1e1e" text-anchor="middle">ours 0.1121</text>
+<text x="720" y="270.9" font-size="22" fill="#15803d" opacity="1.0">-32.2%</text>
+<text x="720" y="304.2" font-size="15" fill="#1e1e1e" opacity="1.0">The margin holds on the other two datasets:</text>
+<text x="720" y="323.0" font-size="15" fill="#1e1e1e" opacity="1.0">Urban100 LPIPS 0.1959 -&gt; 0.1407</text>
+<text x="720" y="341.8" font-size="15" fill="#1e1e1e" opacity="1.0">DIV2K-val LPIPS 0.2624 -&gt; 0.2086</text>
+<path d="M 734.7 401.0 L 1125.9 399.5 Q 1139.4 401.0 1139.4 414.2 L 1139.2 436.1 Q 1141.0 449.2 1126.7 450.0 L 734.9 450.4 Q 719.4 450.9 720.0 435.0 L 718.9 414.0 Q 719.9 399.6 733.2 399.7 Z" fill="#fff3bf" stroke="none" opacity="1.0"/>
+<path d="M 734.7 401.0 L 1125.9 399.5 Q 1139.4 401.0 1139.4 414.2 L 1139.2 436.1 Q 1141.0 449.2 1126.7 450.0 L 734.9 450.4 Q 719.4 450.9 720.0 435.0 L 718.9 414.0 Q 719.9 399.6 733.2 399.7 Z" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 733.7 400.5 L 1125.2 400.4 Q 1140.5 399.4 1140.7 414.3 L 1140.6 435.7 Q 1139.8 449.8 1126.8 450.1 L 733.8 449.9 Q 719.7 449.3 719.4 436.5 L 719.7 414.7 Q 719.6 399.6 734.0 399.5 Z" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="930.0" y="429.7" font-size="15" fill="#1e1e1e" text-anchor="middle">MUSIQ 65.51 -&gt; 73.16 on LIVE-1</text>
+<path d="M 63.7 511.0 L 1156.8 510.7 Q 1170.3 510.9 1171.0 524.1 L 1170.5 795.0 Q 1170.5 809.9 1156.6 810.3 L 63.5 809.0 Q 50.9 809.2 49.9 795.7 L 49.6 524.5 Q 51.0 509.5 64.3 509.6 Z" fill="#e5dbff" stroke="none" opacity="0.3"/>
+<path d="M 63.7 511.0 L 1156.8 510.7 Q 1170.3 510.9 1171.0 524.1 L 1170.5 795.0 Q 1170.5 809.9 1156.6 810.3 L 63.5 809.0 Q 50.9 809.2 49.9 795.7 L 49.6 524.5 Q 51.0 509.5 64.3 509.6 Z" fill="none" stroke="#8b5cf6" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 64.1 509.8 L 1155.5 509.5 Q 1169.6 510.6 1170.0 523.6 L 1170.6 796.8 Q 1169.9 809.4 1155.5 809.4 L 63.8 809.4 Q 49.6 809.6 50.1 796.6 L 50.4 523.9 Q 49.9 510.0 63.8 509.8 Z" fill="none" stroke="#8b5cf6" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="540.0" font-size="19" fill="#6d28d9" opacity="1.0">COST OF A RESTORATION  -  1024 x 1024 input</text>
+<path d="M 83.0 565.5 L 757.0 565.2 Q 770.0 566.3 770.8 579.4 L 769.5 605.4 Q 769.8 619.9 757.0 620.8 L 84.8 618.9 Q 69.0 620.5 70.9 605.9 L 70.2 578.9 Q 69.8 566.9 84.7 566.8 Z" fill="#ffc9c9" stroke="none" opacity="1.0"/>
+<path d="M 83.0 565.5 L 757.0 565.2 Q 770.0 566.3 770.8 579.4 L 769.5 605.4 Q 769.8 619.9 757.0 620.8 L 84.8 618.9 Q 69.0 620.5 70.9 605.9 L 70.2 578.9 Q 69.8 566.9 84.7 566.8 Z" fill="none" stroke="#ef4444" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.7 565.6 L 755.4 565.5 Q 770.0 566.3 770.7 580.3 L 770.2 606.4 Q 769.9 620.1 755.3 620.4 L 83.6 620.6 Q 70.2 619.7 69.4 605.6 L 70.2 580.3 Q 69.4 565.3 84.0 566.1 Z" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="420.0" y="598.0" font-size="16" fill="#1e1e1e" text-anchor="middle">DiffBIR 50 steps 188.24 T MACs 50.81 s</text>
+<path d="M 83.8 635.4 L 176.2 634.9 Q 189.6 635.9 191.0 650.3 L 190.8 675.9 Q 189.4 689.4 177.0 690.5 L 83.6 688.9 Q 70.0 690.4 69.8 675.5 L 70.4 650.9 Q 69.4 635.0 83.6 635.8 Z" fill="#a5d8ff" stroke="none" opacity="1.0"/>
+<path d="M 83.8 635.4 L 176.2 634.9 Q 189.6 635.9 191.0 650.3 L 190.8 675.9 Q 189.4 689.4 177.0 690.5 L 83.6 688.9 Q 70.0 690.4 69.8 675.5 L 70.4 650.9 Q 69.4 635.0 83.6 635.8 Z" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.3 635.5 L 176.5 636.4 Q 190.0 635.5 190.7 649.7 L 190.5 675.6 Q 189.6 690.4 175.7 690.7 L 84.0 689.5 Q 69.6 689.9 70.3 676.7 L 69.5 649.8 Q 69.6 636.7 83.4 635.3 Z" fill="none" stroke="#4a9eed" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="130.0" y="667.6" font-size="15" fill="#1e1e1e" text-anchor="middle">10.39 T</text>
+<text x="200" y="665.2" font-size="16" fill="#1e1e1e" opacity="1.0">OSEDiff   1 step   0.65 s</text>
+<path d="M 83.0 705.8 L 168.9 706.8 Q 182.5 707.1 182.9 719.6 L 181.3 747.0 Q 182.5 759.0 168.4 759.7 L 83.7 759.6 Q 69.3 758.9 69.5 745.7 L 71.0 719.2 Q 71.0 705.4 83.7 706.7 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 83.0 705.8 L 168.9 706.8 Q 182.5 707.1 182.9 719.6 L 181.3 747.0 Q 182.5 759.0 168.4 759.7 L 83.7 759.6 Q 69.3 758.9 69.5 745.7 L 71.0 719.2 Q 71.0 705.4 83.7 706.7 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.5 705.9 L 167.3 706.0 Q 181.8 706.6 181.5 719.8 L 182.6 745.3 Q 181.9 760.5 168.4 759.3 L 83.3 759.3 Q 70.6 759.6 70.4 746.6 L 69.8 719.6 Q 70.7 706.2 83.6 706.3 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="126.0" y="737.6" font-size="15" fill="#1e1e1e" text-anchor="middle">9.46 T</text>
+<text x="192" y="735.2" font-size="16" fill="#15803d" opacity="1.0">ours   1 step   0.57 s</text>
+<text x="640" y="654.2" font-size="15" fill="#1e1e1e" opacity="1.0">Fifty steps of an unconditioned model lose to one</text>
+<text x="640" y="673.0" font-size="15" fill="#1e1e1e" opacity="1.0">step of a conditioned one, at ninety times the</text>
+<text x="640" y="691.8" font-size="15" fill="#1e1e1e" opacity="1.0">wall-clock cost. The prior is computed once by a</text>
+<text x="640" y="710.5" font-size="15" fill="#1e1e1e" opacity="1.0">small encoder, so it is cheaper than OSEDiff too.</text>
+</svg>
